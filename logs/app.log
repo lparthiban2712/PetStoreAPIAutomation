@@ -1,0 +1,8 @@
+[INFO ] 2023-06-03 00:01:46.677 [main] UserTestCases - testcreateuser started
+[INFO ] 2023-06-03 00:01:48.874 [main] UserTestCases - testcreateuser finished
+[INFO ] 2023-06-03 00:01:48.882 [main] UserTestCases - testgetuser started
+[INFO ] 2023-06-03 00:01:50.436 [main] UserTestCases - testgetuser finished
+[INFO ] 2023-06-03 00:01:50.437 [main] UserTestCases - testupdateuser started
+[INFO ] 2023-06-03 00:01:51.816 [main] UserTestCases - testupdateuser finished
+[INFO ] 2023-06-03 00:01:51.817 [main] UserTestCases - testdeleteuser started
+[INFO ] 2023-06-03 00:01:53.192 [main] UserTestCases - testdeleteuser finished
